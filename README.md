@@ -27,7 +27,7 @@ pip install tensorflow numpy matplotlib
 ## Запуск
 
 ```bash
-python "Цифры нейросеть.py"
+python "gan.py"
 ```
 
 При запуске появится подсказка с выбором количества эпох:
